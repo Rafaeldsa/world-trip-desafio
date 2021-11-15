@@ -1,35 +1,166 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1> World Trip 🌎</h1>
 
-## Getting Started
+<p align="center"  > 
+  <img align='right' width='28.8%' src="https://user-images.githubusercontent.com/48728541/114254867-6855fd80-9988-11eb-930c-e57dc65f43f1.png" /> 
+  <img width='66.2%' src="https://user-images.githubusercontent.com/48728541/114254873-74da5600-9988-11eb-9811-507ea5642c51.png" />
+</p>
 
-First, run the development server:
+<p align="center"  > 
+  <img align='right' width='32%' src="https://user-images.githubusercontent.com/48728541/114254888-86236280-9988-11eb-8dbf-d9095c30c170.png" /> 
+  <img width='63%' src="https://user-images.githubusercontent.com/48728541/114254890-86bbf900-9988-11eb-9a68-e60fd07a5f37.png" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center">
+  Escolha sua próxima viagem entre as 100 cidades mais visitadas do mundo. 
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>As 100 cidades mais visitadas do mundo </h2>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<details>
+  <summary>Europe</summary>
+  
+  - London
+  - Paris
+  - Rome
+  - Prague
+  - Amsterdam
+  - Barcelona
+  - Milan
+  - Vienna
+  - Berlim
+  - Athens
+  - Moscow
+  - Venice
+  - Madrid
+  - Dublin
+  - Florence
+  - Munich
+  - St. Petersburg
+  - Brussels
+  - Budapest
+  - Lisbon
+  - Heraklion
+  - Copenhagen
+  - Krakow
+  - Warsaw
+  - Mugla
+  - Frankfurt
+  - Stockholm
+  - Nice
+  - Porto
+  - Rhodes
+</details>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<details>
+  <summary>Ásia</summary>
 
-## Learn More
+  - Hong Kong
+  - Bangkok
+  - Macau
+  - Singapore
+  - Dubai
+  - Kuala Lumpur
+  - Delhi
+  - Shenzhen
+  - Mumbai
+  - Phuket
+  - Tokyo
+  - Pattaya
+  - Taipei
+  - Mecca
+  - Guangzhou
+  - Medina
+  - Seoul
+  - Agra
+  - Osaka
+  - Shanghai
+  - Ho Chi Minh City
+  - Denpasar
+  - Chennai
+  - Johor Bahru
+  - Jaipur
+  - Ha long
+  - Riyadh
+  - Hanoi
+  - Jakarta
+  - Beijing
+  - Jerusalem
+  - Dammam
+  - Penang Island
+  - Kyoto
+  - Zhuhai
+  - Chiang Mai
+  - Kolkata
+  - Cebu
+  - Tel Aviv
+  - Guilin
+  - Chiba
+  - Da Nang
+  - Batam
+  - Fukuoka
+  - Abu Dhabi
+  - Jeju
+  - Krabi
+  - Bangalore
+  - Istanbul
+  - Antalya
+</details>
 
-To learn more about Next.js, take a look at the following resources:
+<details>
+  <summary>África</summary>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  - Cairo
+  - Johannesburg
+  - Marrakech
+  - Hurghada
+</details>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<details>
+  <summary>América do Norte</summary>
 
-## Deploy on Vercel
+  - New York City
+  - Miami
+  - Los Angeles
+  - Las Vegas
+  - Cancun
+  - Orlando
+  - Toronto
+  - Vancouver
+  - San Francisco
+  - Honolulu
+</details>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<details>
+  <summary>América do Sul</summary>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# world-trip-desafio
+  - Buenos aires City
+  - Lima
+  - Rio de Janeiro
+</details>
+
+<details>
+  <summary>Oceania</summary>
+
+  - Sydney
+  - Melbourne
+  - Auckland
+</details>
+
+<h2> Tecnologias utilizadas: </h2> 
+
+- <a href="https://nextjs.org" > Next.js </a>
+- <a href="https://www.typescriptlang.org/"> TypeScript </a>
+- <a href="https://chakra-ui.com"> Chakra UI </a>
+- <a href="https://github.com/typicode/json-server"> JSON Server </a>
+- <a href="https://swiperjs.com/react"> Swiper </a>
+- <a href="https://sass-lang.com"> SASS </a>
+- <a href="https://github.com/danalloway/react-country-flag"> React Country Flag </a>
+
+</br>
+
+<p>Todas as images foram utilizadas a partir da API do <a href="https://source.unsplash.com" >Unsplash</a> </p>
+
+</br>
+
+<p>Desenvolvido com ❤️ por <a href="https://github.com/Fekleite">Fernanda Leite </a></p>
